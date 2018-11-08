@@ -24,3 +24,10 @@ print("x = " + x);
 x = "a"
 y = "b"
 print(x,y);
+
+tcounter = 100;
+miles = 1000.0;
+name = "John";
+
+print(tcounter);
+print(miles, name);
